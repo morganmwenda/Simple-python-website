@@ -6,5 +6,5 @@ app = create_app()
 
 if __name__ == '__main__': #runs the app only when we run main.py
     app.run(debug=True) #debug=True reloads the website after changes are made
-    
+
 
