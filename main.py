@@ -1,6 +1,6 @@
 #the  __innit__.py in the folder website makes the entire folder a python package, allowing importing
-
 from Website import create_app
+
 
 app = create_app()
 
